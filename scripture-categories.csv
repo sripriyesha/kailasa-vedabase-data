@@ -1,5 +1,5 @@
 name,slug,scriptureCategoryParent
-Vaidika,vaidika
+Vaidika,vaidika,
 Shruti,shruti,Vaidika
 Veda,veda,Shruti
 Samhita,samhita,Veda
