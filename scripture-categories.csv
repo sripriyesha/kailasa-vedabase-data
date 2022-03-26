@@ -1,0 +1,86 @@
+name,slug,scriptureCategoryParent
+Vaidika,vaidika
+Shruti,shruti,Vaidika
+Veda,veda,Shruti
+Samhita,samhita,Veda
+Aranyaka,aranyaka,Veda
+Brahmana,brahmana,Veda
+Upanishads,upanishads,Veda
+Upaveda,upaveda,Shruti
+Ayurveda,ayurveda,Upaveda
+Dhanurveda,dhanurveda,Upaveda
+"Gandharva Veda",gandharva-veda,Upaveda
+Arthashastra,arthashastra,Upaveda
+Vedanga,vedanga,Shruti
+Siksha,siksha,Vedanga
+Vyakarana,vyakarana,Vedanga
+Chhandas,chhandas,Vedanga
+Niruktha/Nighantu,niruktha,Vedanga
+Jyotisha,jyotisha,Vedanga
+Kalpa,kalpa,Vedanga
+Agama,agama,Shruti
+"Saiva Agama",saiva-agama,Agama
+"Mula Agama",mula-agama,"Saiva Agama"
+"Upa Agama",upa-agama,"Saiva Agama"
+"Vaishnava Agama",vaishnava-agama,Agama
+"Sakta Agama",sakta-agama,Agama
+Smriti,smriti,Vaidika
+"Manu Smriti",manu-smriti,Smriti
+"Yajnavalkya Smriti",yajnavalkya,Smriti
+"Parasara Smriti",parasara,Smriti
+"Vishnu Smriti",vishnu,Smriti
+"Daksha Smriti",daksha,Smriti
+Samvarta,samvarta,Smriti
+Vyasa,vyasa,Smriti
+Harita,harita,Smriti
+Satatapa,satatapa,Smriti
+Vasishtha,vasishtha,Smriti
+Yama,yama,Smriti
+Apastamba,apastamba,Smriti
+Gautama,gautama,Smriti
+Devala,devala,Smriti
+Sankha-likhita,sankha-likhita,Smriti
+Usana,usana,Smriti
+Atri,atri,Smriti
+Saunaka,saunaka,Smriti
+Ithihasa,ithihasa,Vaidika
+Mahabharata,mahabharata,Ithihasa
+Ramayana,ramayana,Ithihasa
+Purana,purana,Vaidika
+Mahapurana,mahapurana,Purana
+"Upa Purana",upa-purana,Purana
+"Sthala Purana",sthala-purana,Purana
+"Kula Purana",kula-purana,Purana
+"Tamil Purana",tamil-purana,Purana
+"Shaiva Purana",shaiva-purana,"Tamil Purana"
+"Periya Purana",periya-purana,"Tamil Purana"
+"Shiva Parakramam",shiva-parakramam,"Tamil Purana"
+"Tiruvilayadal Purana",tiruvilayadal-purana,"Tamil Purana"
+Mahatmya,mahatmya,Purana
+"Kshetra Mahatmya",kshetra-mahatmya,Mahatmya
+"Tirtha Mahatmya",tirtha-mahatmya,Mahatmya
+"Puraniya Mahatmya",puraniya-mahatmya,Mahatmya
+"Grantha Mahatmya",grantha-mahatmya,Mahatmya
+Itaramahatmya,itaramahatmya,Mahatmya
+Vrata,vrata,Purana
+"Vrata Katha",vrata-katha,Purana
+Vedadharmaiya,vedadharmaiya,"Vrata Katha"
+Pauranika,vrata-katha-pauranika,"Vrata Katha"
+Jaina,vrata-katha-jaina,"Vrata Katha"
+Bauddha,bauddha,"Vrata Katha"
+Puja,puja,Purana
+Parayana,parayana,Purana
+Pauranika,parayana-pauranika,Parayana
+Jaina,parayana-jaina,Parayana
+Bauddha,parayana-bauddha,Parayana
+Stotra,stotra,Purana
+Jnanavali,jnanavali,Stotra
+Namavali,namavali,Stotra
+"Other Puranas",other-puranas,Purana
+Darshana,darshana,Vaidika
+Nyaya,nyaya,Darshana
+Vaisheshika,vaisheshika,Darshana
+Samkhya,samkhya,Darshana
+Yoga,yoga,Darshana
+Mimamsa,mimamsa,Darshana
+Vedanta,vedanta,Darshana
